@@ -1,0 +1,7 @@
+Infected IP: 10.1.17.215
+Hostname: DESKTOP-L8C5GSJ
+Username: shutchenson
+Suspicious Domain: authenticatoor.org
+Related Domain: google-authenticator.burleson-appliance.net
+Suspicious IP / Possible C2: 5.252.153.241
+Project Type: Wireshark Traffic Analysis
