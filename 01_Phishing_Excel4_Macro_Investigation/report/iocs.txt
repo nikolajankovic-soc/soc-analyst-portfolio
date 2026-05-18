@@ -1,0 +1,6 @@
+Indicators of Compromise:
+- Malicious Excel 4.0 Macro attachment
+- regsvr32 execution detected in CMD history
+- Outbound communication to malicious C2 infrastructure
+- Suspicious browser and network activity
+- Affected device: LarsPRD
